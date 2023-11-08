@@ -7,7 +7,7 @@ function Header() {
         <div>
             <h1>Zobbs Caterrry!!!</h1>
             <nav>
-                <button>our pantry</button>
+                <button>Our pantry</button>
                 <button>About us</button>
                 <button>Contact us</button>
             </nav>
